@@ -91,7 +91,7 @@ vendor/
 #-------------------------
 
 # Compiled files
-
+public
 
 # Modules Testing
 _modules/*

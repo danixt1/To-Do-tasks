@@ -90,6 +90,9 @@ vendor/
 # IDE / Development Files
 #-------------------------
 
+# Compiled files
+
+
 # Modules Testing
 _modules/*
 
